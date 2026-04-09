@@ -1,7 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Shivam Choudhary</h1>
-
+<h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;ASP.NET+Core+%7C+React+Developer;Always+Learning+New+Things🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= I'm Shivam Choudhary;Full+Stack+Developer;ASP.NET+Core+%7C+MVC+Developer;Always+Learning+New+Things🚀&center=true&width=500&height=45">
 </p>
 
 <p align="center">
