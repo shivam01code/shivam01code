@@ -1,10 +1,12 @@
-<h1 align="center">
-  <span style="color:#38BDF8;">## Hi there 👋</span>
-</h1>
-<h1 align="center">
-  <span style="color:#38BDF8;">I'm Shivam Choudhary</span>
-</h1>
-# 🚀 Full Stack Developer | Open-Source Contributor
+<h1 align="center">Hi there 👋, I'm Shivam Choudhary</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;ASP.NET+Core+%7C+React+Developer;Always+Learning+New+Things🚀&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  🚀 Building scalable applications | 💻 Passionate Developer | 🌱 Always Learning
+</p>
 
 *B.Tech student with hands-on experience in Building scalable full-stack applications with clean architecture and real-world impact.
 
