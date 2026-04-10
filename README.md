@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I+am+Shivam+Choudhary;Full+Stack+Developer;ASP.NET+Core+%7C+MVC+Developer;Always+Learning+New+Things🚀&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I+am+Shivam+Choudhary;Full+Stack+ASP.NET+Core+%7C+MVC+Developer&center=true&width=500&height=45" />
 </p>
 
 ## 🚀 About Me
