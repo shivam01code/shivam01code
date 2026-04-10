@@ -68,6 +68,4 @@
 - Implemented validations and dropdown systems  
 - Worked with PostgreSQL & SQL Server  
 
--
-
 💡 *"Always learning, always building!"*
