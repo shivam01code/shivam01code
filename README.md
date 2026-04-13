@@ -65,7 +65,7 @@
 ### 🔹 ESG Data Management System
 - Developed enterprise-level CRUD modules  
 - Designed user-friendly UI across Create, Edit, Details pages  
-- Implemented validations and dropdown systems  
+- Implemented validations and dropdown systems 
 - Worked with PostgreSQL & SQL Server  
 
 💡 *"Always learning, always building!"*
