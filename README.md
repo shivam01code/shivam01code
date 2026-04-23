@@ -10,7 +10,7 @@
 - 🧩 Built scalable ESG data management system  
 - 🗄️ Experienced with PostgreSQL & SQL Server  
 - 🎯 Focused on clean UI/UX and efficient backend logic  
-- 🌱 Currently exploring system design & cloud  
+- 🌱 Currently exploring system design & cloud
 
 ---
 
