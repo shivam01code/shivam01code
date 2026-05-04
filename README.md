@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student passionate about software development 
+- 🎓 B.Tech Student passionate about software development
 - 💼 SDE Intern @ExcelGeomatics (.NET Core & C# Developer)  
 - 🧩 Built scalable ESG data management system  
 - 🗄️ Experienced with PostgreSQL & SQL Server  
