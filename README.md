@@ -9,7 +9,7 @@
 - 💼 SDE Intern @ExcelGeomatics (.NET Core & C# Developer)  
 - 🧩 Built scalable ESG data management system  
 - 🗄️ Experienced with PostgreSQL & SQL Server  
-- 🎯 Focused on clean UI/UX and efficient backend logic  
+- 🎯 Focused on clean UI/UX and efficient backend logic 
 - 🌱 Currently exploring system design & cloud
 
 ---
